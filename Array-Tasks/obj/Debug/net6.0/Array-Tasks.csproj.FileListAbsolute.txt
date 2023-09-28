@@ -1,0 +1,14 @@
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\bin\Debug\net6.0\Array-Tasks.exe
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\bin\Debug\net6.0\Array-Tasks.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\bin\Debug\net6.0\Array-Tasks.runtimeconfig.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\bin\Debug\net6.0\Array-Tasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\bin\Debug\net6.0\Array-Tasks.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\obj\Debug\net6.0\Array-Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\obj\Debug\net6.0\Array-Tasks.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\obj\Debug\net6.0\Array-Tasks.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\obj\Debug\net6.0\Array-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\obj\Debug\net6.0\Array-Tasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\obj\Debug\net6.0\refint\Array-Tasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\obj\Debug\net6.0\Array-Tasks.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\obj\Debug\net6.0\Array-Tasks.genruntimeconfig.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\Web courses\Array-Tasks\Array-Tasks\obj\Debug\net6.0\ref\Array-Tasks.dll
